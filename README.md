@@ -1,3 +1,4 @@
 # NewRepForConsole
-new repository for training with console
-**Add new branch develop**
+
+1.new repository for training with console
+2.**Add new branch develop**
